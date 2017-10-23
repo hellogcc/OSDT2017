@@ -2,6 +2,11 @@
 
 OSDT2017开源开发工具大会演讲资料下载.
 
+点击阅读本次大会的
+[话题和赞助征集](http://www.hellogcc.org/?p=34315)、
+[议程演讲介绍](http://www.hellogcc.org/?p=34329)、
+[邀请函](http://www.hellogcc.org/?p=34341)。
+
 **TODO：上传各个演讲幻灯片**
 
 史斌 - Go语言及其编译器介绍
