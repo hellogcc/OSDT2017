@@ -13,7 +13,7 @@ OSDT2017开源开发工具大会演讲资料下载.
 
 [刘江宁 - 支持GPU的快速模型子系统验证技术](OSDT2017-ARM-GPU-Fast-Model.pdf)
 
-[王翔 - 固件自由RISC-V架构下的coreboot]coreboot4hifive1.pdf()
+[王翔 - 固件自由RISC-V架构下的coreboot](coreboot4hifive1.pdf)
 
 [邢明杰 - 浅谈量子计算与编程]
 
