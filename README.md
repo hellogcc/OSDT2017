@@ -23,7 +23,7 @@ https://v.douyu.com/show/GLDBbMAQKeBMyJRP
 
 我们的微信公众号
 
-TODO
+![hellogcc2007](weixin_hellogcc2007.jpg)
 
 我们的邮件列表
 
