@@ -9,13 +9,15 @@ OSDT2017开源开发工具大会演讲资料下载.
 
 **TODO：上传各个演讲幻灯片**
 
-史斌 - Go语言及其编译器介绍
+[史斌 - Go语言及其编译器介绍](golang.pdf)
 
 [刘江宁 - 支持GPU的快速模型子系统验证技术](OSDT2017-ARM-GPU-Fast-Model.pdf)
 
 [王翔 - 固件自由RISC-V架构下的coreboot]coreboot4hifive1.pdf()
 
 [邢明杰 - 浅谈量子计算与编程]
+
+[朱辉 - BloodTest:快速检测Linux性能问题思路及简单实现](bloodtest.pdf)
 
 ## 视频回看地址（斗鱼直播回看）：
 
