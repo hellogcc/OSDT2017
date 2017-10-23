@@ -2,9 +2,22 @@
 
 OSDT2017开源开发工具大会演讲资料下载.
 
-视频回看地址：
+**TODO：上传各个演讲幻灯片**
 
-TBD
+## 视频回看地址（斗鱼直播回看）：
+
+**TODO：按照话题对视频进行切分**
+
+第一部分
+https://v.douyu.com/show/285BAvqnQLp7G4Lm
+
+第二部分
+https://v.douyu.com/show/dyVY8Ww0DeAvLOz9
+
+第三部分
+https://v.douyu.com/show/GLDBbMAQKeBMyJRP
+
+## 其它资源
 
 [我们的网站 http://www.hellogcc.org](http://www.hellogcc.org)
 
