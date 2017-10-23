@@ -15,7 +15,7 @@ OSDT2017开源开发工具大会演讲资料下载.
 
 [王翔 - 固件自由RISC-V架构下的coreboot](coreboot4hifive1.pdf)
 
-[邢明杰 - 浅谈量子计算与编程]
+[邢明杰 - 浅谈量子计算与编程](qc.pdf)
 
 [朱辉 - BloodTest:快速检测Linux性能问题思路及简单实现](bloodtest.pdf)
 
